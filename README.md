@@ -25,6 +25,7 @@ https://github.com/Jeradin/gf-city-and-state-auto-fill/issues
 
 
 == Notes ==
+
 	1. This only works for the US and Canada currently. please select one of these as the "Address Type" general settings for the Address Field.
 	2. Some 5 digit zip codes don't bring up the correct city: http://semaphorecorp.com/cgi/zip5.html
 		a. API only allows for 5 digits
